@@ -1,0 +1,11 @@
+
+Hello {name},
+
+This is a friendly reminder regarding:
+
+{task}
+
+Please complete it on time.
+
+Best Regards,
+Automation Team

@@ -1,0 +1,4 @@
+pandas
+schedule
+python-dotenv
+streamlit
