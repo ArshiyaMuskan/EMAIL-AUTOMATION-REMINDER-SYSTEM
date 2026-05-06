@@ -233,32 +233,6 @@ Inside sidebar:
 
 ✅ Enable Dry Run Mode
 
----
-
-# 📸 Screenshots
-
-## Dashboard
-images/dashboard .png
-
-## Processing Emails
-images/processing.png
-
-## Report Table
-images/report.png
-
----
-
-# 📊 Generated Outputs
-
-## Logs
-
-logs/email.log
-
-## Reports
-
-outputs/report.csv
-
----
 
 # 🔥 Example Personalized Email
 
